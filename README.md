@@ -1,18 +1,17 @@
-<div align="center">
-
 # ╔═══ ❖ **VOLDEMORT** ❖ ═══╗
+
+<div align="center">
 
 ### `Developer • Builder • Creator`
 
-[![GitHub](https://img.shields.io/badge/GitHub-robalex01-181717?style=for-the-badge\&logo=github)](https://github.com/robalex01)
-[![Discord](https://img.shields.io/badge/Discord-voldemort-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=robalex01\&style=for-the-badge\&color=7c3aed\&label=PROFILE+VIEWS)](https://github.com/robalex01)
+[![GitHub](https://img.shields.io/badge/GitHub-robalex01-181717?style=for-the-badge&logo=github)](https://github.com/robalex01)
+[![Discord](https://img.shields.io/badge/Discord-6voldemort-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Email](https://img.shields.io/badge/Email-6voldemort69%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6voldemort69@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=robalex01&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/robalex01)
 
 <br>
 
 > **「 Building things. Breaking things. Learning everything. 」**
-
-<br>
 
 `⚡ FiveM`　`🎮 Roblox`　`🌐 Web`　`🧠 Software`　`🛠️ Tools`
 
@@ -64,7 +63,7 @@ currently:
 
 ### 🏭 Factory Empire
 
-> A Roblox factory / tycoon game focused on automation and production.
+> Roblox factory / tycoon game focused on automation and production.
 
 `Roblox` `Lua` `Factory` `Automation`
 
@@ -84,7 +83,7 @@ currently:
 
 ### 🧩 Git Architect
 
-> A visual Git project manager designed to make Git easier to understand.
+> Visual Git project manager designed to make Git easier to understand.
 
 `Electron` `Vite` `TypeScript` `Git`
 
@@ -98,24 +97,24 @@ currently:
 
 ### Languages
 
-![Lua](https://img.shields.io/badge/Lua-111111?style=for-the-badge\&logo=lua\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=3776AB)
+![Lua](https://img.shields.io/badge/Lua-111111?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
 
 ### Frameworks & Tools
 
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=node.js\&logoColor=339933)
-![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge\&logo=vite\&logoColor=646CFF)
-![Electron](https://img.shields.io/badge/Electron-111111?style=for-the-badge\&logo=electron\&logoColor=47848F)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=F05032)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933)
+![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Electron](https://img.shields.io/badge/Electron-111111?style=for-the-badge&logo=electron&logoColor=47848F)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
 
 ### Platforms
 
-![FiveM](https://img.shields.io/badge/FiveM-111111?style=for-the-badge\&logo=fivem\&logoColor=F40552)
-![Roblox](https://img.shields.io/badge/Roblox-111111?style=for-the-badge\&logo=roblox\&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-111111?style=for-the-badge\&logo=windows\&logoColor=0078D4)
+![FiveM](https://img.shields.io/badge/FiveM-111111?style=for-the-badge&logo=fivem&logoColor=F40552)
+![Roblox](https://img.shields.io/badge/Roblox-111111?style=for-the-badge&logo=roblox&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-111111?style=for-the-badge&logo=windows&logoColor=0078D4)
 
 </div>
 
@@ -123,17 +122,41 @@ currently:
 
 <div align="center">
 
-## ╭━━━ 📊 GITHUB ━━━╮
+## ╭━━━ 📊 GITHUB STATISTICS ━━━╮
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=robalex01&show_icons=true&theme=transparent&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&bg_color=00000000" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=robalex01&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&bg_color=00000000" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robalex01&layout=compact&theme=transparent&hide_border=true&title_color=A855F7&text_color=FFFFFF&bg_color=00000000" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robalex01&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=A855F7&text_color=FFFFFF&bg_color=00000000" height="180">
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=robalex01&theme=transparent&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF">
+
+</div>
+
+---
+
+<div align="center">
+
+## ╭━━━ 🏆 TROPHIES ━━━╮
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=robalex01&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/robalex01)
+
+</div>
+
+---
+
+<div align="center">
+
+## ╭━━━ 🐍 GITHUB SNAKE ━━━╮
+
+<br>
+
+<img src="https://raw.githubusercontent.com/robalex01/robalex01/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake">
 
 </div>
 
@@ -153,6 +176,41 @@ currently:
 
 <div align="center">
 
+## ╭━━━ 👁️ PROFILE VIEWS ━━━╮
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=robalex01&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS">
+
+</div>
+
+---
+
+<div align="center">
+
+## ╭━━━ 🚀 DYNAMIC PROJECTS ━━━╮
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/robalex01/Factory-Empire">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=robalex01&repo=Factory-Empire&theme=transparent&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/robalex01/Git-Architect">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=robalex01&repo=Git-Architect&theme=transparent&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
+</a>
+
+<br>
+
+> Projects shown here use live GitHub repository cards, so their visible information updates automatically from GitHub.
+
+</div>
+
+---
+
+<div align="center">
+
 ## ╭━━━ ⚡ CURRENTLY WORKING ON ━━━╮
 
 </div>
@@ -160,17 +218,38 @@ currently:
 ```text
 ╭─────────────────────────────────────────────╮
 │                                             │
-│   🏭  Factory Empire                       │
-│       └─ Roblox automation / tycoon        │
+│   🏭  Factory Empire                        │
+│       └─ Roblox automation / tycoon         │
 │                                             │
-│   🎮  Alkia RP                             │
-│       └─ FiveM custom ecosystem            │
+│   🎮  Alkia RP                              │
+│       └─ FiveM custom ecosystem             │
 │                                             │
 │   🧩  Git Architect                         │
-│       └─ Visual Git tooling                │
+│       └─ Visual Git tooling                 │
 │                                             │
 ╰─────────────────────────────────────────────╯
 ```
+
+---
+
+<div align="center">
+
+## ╭━━━ 🎵 NOW PLAYING ━━━╮
+
+<br>
+
+`🎧 Spotify integration ready to be connected`
+
+<br>
+
+<!--
+When a Spotify README service is configured, this section can display
+the currently playing track automatically.
+-->
+
+**Listening • Coding • Building**
+
+</div>
 
 ---
 
@@ -180,12 +259,15 @@ currently:
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/robalex01)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/robalex01)
+[![Discord](https://img.shields.io/badge/Discord-6voldemort-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Email](https://img.shields.io/badge/Email-6voldemort69%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6voldemort69@gmail.com)
 
 <br>
 
 `💬 Discord → 6voldemort`
+
+`📧 Pro → 6voldemort69@gmail.com`
 
 </div>
 
@@ -198,8 +280,5 @@ currently:
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=footer">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=robalex01&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/robalex01)
-
 
 </div>

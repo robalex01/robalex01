@@ -144,7 +144,7 @@ currently:
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=robalex01&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/robalex01)
+<img src="https://github-profile-trophy.vercel.app/?username=robalex01&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" width="800">
 
 </div>
 
@@ -156,7 +156,7 @@ currently:
 
 <br>
 
-<img src="https://raw.githubusercontent.com/robalex01/robalex01/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake">
+<img src="https://raw.githubusercontent.com/robalex01/robalex01/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%">
 
 </div>
 
@@ -195,15 +195,15 @@ currently:
 <div align="center">
 
 <a href="https://github.com/robalex01/Factory-Empire">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=robalex01&repo=Factory-Empire&theme=transparent&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
+  <img src="https://img.shields.io/badge/🏭%20Factory%20Empire-Roblox%20%7C%20Automation-A855F7?style=for-the-badge" alt="Factory Empire">
 </a>
 <a href="https://github.com/robalex01/Git-Architect">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=robalex01&repo=Git-Architect&theme=transparent&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
+  <img src="https://img.shields.io/badge/🧩%20Git%20Architect-Electron%20%7C%20Vite-A855F7?style=for-the-badge" alt="Git Architect">
 </a>
 
-<br>
+<br><br>
 
-> Projects shown here use live GitHub repository cards, so their visible information updates automatically from GitHub.
+> **Factory Empire** and **Git Architect** are private repositories, so GitHub README Stats cannot display their repository cards publicly. These links remain available directly from the profile.
 
 </div>
 

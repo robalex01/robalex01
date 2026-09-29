@@ -1,30 +1,53 @@
-name: Generate Snake
+name: Generate local profile assets
 
 on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "assets/**"
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "17 2 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 10
 
     steps:
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake locally
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: robalex01
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Publish snake to output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          force_orphan: true
-          commit_message: "chore: update contribution snake"
+      - name: Generate statistics, trophies and contributions locally
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/generate_profile_assets.py
+
+      - name: Copy snake into the repository assets
+        run: |
+          mkdir -p assets
+          cp dist/github-snake.svg assets/github-snake.svg
+          cp dist/github-snake-dark.svg assets/github-snake-dark.svg
+
+      - name: Commit generated images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          if git diff --cached --quiet; then
+            echo "No profile asset changes."
+            exit 0
+          fi
+          git commit -m "chore: update local profile assets"
+          git push

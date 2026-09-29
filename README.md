@@ -144,7 +144,7 @@ currently:
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=robalex01&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" width="800">
+[![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=robalex01&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)](https://github.com/itzmrshyam/github-profile-trophy)
 
 </div>
 
@@ -156,7 +156,11 @@ currently:
 
 <br>
 
-<img src="https://raw.githubusercontent.com/robalex01/robalex01/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robalex01/robalex01/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robalex01/robalex01/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/robalex01/robalex01/output/github-snake.svg" alt="GitHub contribution snake" width="100%">
+</picture>
 
 </div>
 
